@@ -1,0 +1,1 @@
+# Analysis-of-Solar-power-plant-using-ML
